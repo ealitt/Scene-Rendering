@@ -1,5 +1,5 @@
 # Scene-Rendering
-A standalone OpenGL viewer for rendering virtual spheres with lighting provided from an hdr image using image based lighting (IBL).
+A standalone OpenGL viewer for rendering virtual spheres with lighting provided from an hdr image using image based lighting (IBL). All necessary OpenGL dependencies are included and can be run with Cmake.
 
 Created for the [IBL project](https://github.com/zhiyuXiao1221/ImageBasedLight) as a way to integrate rendering into the pipeline of image based light processing. Previous methods of rendering makes use of Autodesk's Maya software for a manually crafted scene for compositing virtual object into real life image.
 
